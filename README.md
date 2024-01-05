@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @utkarshratedr23
+- 👋 Hi, I’m Utkarsh Bhargava
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on projects related to MERN stack
